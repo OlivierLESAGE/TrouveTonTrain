@@ -1,0 +1,3 @@
+GET https://18ff3575-25ea-494a-8c6e-ae2c4b49b8c5@api.navitia.io/v1/coverage/sncf/journeys?to=2.35107%3B48.87194&from=5.87219%3B45.64861&datetime_represents=arrival&datetime=20200229T000000&
+
+https://api.navitia.io/v1/coverage/sncf/journeys?from=5.919801%3B45.571038&to=5.784731%3B45.184903&
